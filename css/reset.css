@@ -23,6 +23,7 @@ a {
 ul {
     list-style: none;
 }
-/* a:hover {
-    text-decoration: underline;
-} */
+
+input, textarea {
+    background: none;
+}
